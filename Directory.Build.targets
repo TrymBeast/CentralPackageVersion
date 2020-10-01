@@ -1,3 +1,0 @@
-<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <Sdk Name="Microsoft.Build.CentralPackageVersions" Version="2.0.79" />
-</Project>
