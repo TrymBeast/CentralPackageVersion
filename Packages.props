@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-	<PackageReference Update="Microsoft.Web.Infrastructure" Version="1.0.0" />
+	<PackageReference Update="Microsoft.Web.Infrastructure" Version="2.0.0" />
     <PackageReference Update="Microsoft.AspNet.WebPages" Version="3.2.7" />
     <PackageReference Update="Microsoft.AspNet.Mvc" Version="5.2.7" />
     <PackageReference Update="Microsoft.AspNet.Web.Optimization" Version="1.1.3" />
