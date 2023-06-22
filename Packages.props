@@ -7,7 +7,7 @@
     <PackageReference Update="Microsoft.AspNet.Web.Optimization" Version="1.1.3" />
     <PackageReference Update="Microsoft.AspNet.Razor" Version="3.2.7" />
     <PackageReference Update="Microsoft.AspNet.WebPages" Version="3.2.7" />
-    <PackageReference Update="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Update="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Update="WebGrease" Version="1.6.0" />
     <PackageReference Update="Antlr" Version="3.5.0.2" />
     <PackageReference Update="Microsoft.CodeDom.Providers.DotNetCompilerPlatform" Version="2.0.1" />
